@@ -1,0 +1,14 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "a5c2cc4b-7f9b-414a-8795-a693a27384c1",
+            "collectionId": "Vietnamese",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Vietnamese/Vietnamese_Speech/a5c2cc4b-7f9b-414a-8795-a693a27384c1/a5c2cc4b-7f9b-414a-8795-a693a27384c1_vi_Male.mp4"
+        }
+    ]
+}
